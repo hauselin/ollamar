@@ -52,7 +52,7 @@ section](#notes) below for more information.
 library(ollamar)
 
 test_connection()  # test connection to Ollama server; returns a httr2 response object
-# Ollama local server running successfully
+# Ollama local server running
 # <httr2_response>
 
 list_models()  # list available models (models you've pulled/downloaded)
